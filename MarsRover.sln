@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover", "MarsRover\MarsRover.csproj", "{29C277B8-DC69-423F-8053-B1F063995401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverTest", "MarsRoverTest\MarsRoverTest.csproj", "{EFD1ED8A-6788-4661-99D2-9AF13C9E78EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DBAB46E1-F5EB-4D50-8247-1B18496ED452}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		MarsRover.vsmdi = MarsRover.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{D11CBCBF-412F-4378-9AF3-2FA2073BCB1B}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = MarsRover.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C277B8-DC69-423F-8053-B1F063995401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C277B8-DC69-423F-8053-B1F063995401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C277B8-DC69-423F-8053-B1F063995401}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{29C277B8-DC69-423F-8053-B1F063995401}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{29C277B8-DC69-423F-8053-B1F063995401}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{29C277B8-DC69-423F-8053-B1F063995401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C277B8-DC69-423F-8053-B1F063995401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C277B8-DC69-423F-8053-B1F063995401}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{29C277B8-DC69-423F-8053-B1F063995401}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{29C277B8-DC69-423F-8053-B1F063995401}.Release|x86.ActiveCfg = Release|Any CPU
+		{EFD1ED8A-6788-4661-99D2-9AF13C9E78EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD1ED8A-6788-4661-99D2-9AF13C9E78EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD1ED8A-6788-4661-99D2-9AF13C9E78EC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{EFD1ED8A-6788-4661-99D2-9AF13C9E78EC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{EFD1ED8A-6788-4661-99D2-9AF13C9E78EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EFD1ED8A-6788-4661-99D2-9AF13C9E78EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD1ED8A-6788-4661-99D2-9AF13C9E78EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD1ED8A-6788-4661-99D2-9AF13C9E78EC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{EFD1ED8A-6788-4661-99D2-9AF13C9E78EC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{EFD1ED8A-6788-4661-99D2-9AF13C9E78EC}.Release|x86.ActiveCfg = Release|Any CPU
+		{D11CBCBF-412F-4378-9AF3-2FA2073BCB1B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D11CBCBF-412F-4378-9AF3-2FA2073BCB1B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{D11CBCBF-412F-4378-9AF3-2FA2073BCB1B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{D11CBCBF-412F-4378-9AF3-2FA2073BCB1B}.Debug|x86.ActiveCfg = Debug|x86
+		{D11CBCBF-412F-4378-9AF3-2FA2073BCB1B}.Debug|x86.Build.0 = Debug|x86
+		{D11CBCBF-412F-4378-9AF3-2FA2073BCB1B}.Release|Any CPU.ActiveCfg = Release|x86
+		{D11CBCBF-412F-4378-9AF3-2FA2073BCB1B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{D11CBCBF-412F-4378-9AF3-2FA2073BCB1B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{D11CBCBF-412F-4378-9AF3-2FA2073BCB1B}.Release|x86.ActiveCfg = Release|x86
+		{D11CBCBF-412F-4378-9AF3-2FA2073BCB1B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
